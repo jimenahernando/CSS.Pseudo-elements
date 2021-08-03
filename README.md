@@ -1,11 +1,11 @@
 # CSS.Pseudo-elements
 
-#Aprendizajes:
+# Aprendizajes:
 
-### Uso de la estrategia de diseño mobile-first aplicada a Grid
+* Uso de la estrategia de diseño mobile-first aplicada a Grid
 
-### Pseudo-elementos: como y cuando usarlos? Casos de uso
+* Pseudo-elementos: como y cuando usarlos? Casos de uso
 
-### Personalizacion de la scroll-bar
+* Personalizacion de la scroll-bar
 
 Gracias 📷richwebdeveloper
