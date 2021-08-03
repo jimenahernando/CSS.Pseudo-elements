@@ -1,7 +1,5 @@
 # CSS.Pseudo-elements
 
-# Aprendizajes:
-
 * Uso de la estrategia de diseño mobile-first aplicada a Grid
 
 * Pseudo-elementos: como y cuando usarlos? Casos de uso
